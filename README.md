@@ -2,7 +2,7 @@
 cocos2d-x and Huawei Mobile Service Integration demo application.(Account Kit used)
 
 ## Introduction 
-Cocos2d-x is a open-source, cross platform game engine. 
+Cocos2d-x is a open-source, cross platform game engine. In this project we will use Cocos2d-x with Huawei mobile services.
 
 ## Build Requirements 
 * Mac OS X 10.7+, Xcode 8+
