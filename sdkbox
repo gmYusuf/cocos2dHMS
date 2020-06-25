@@ -1,0 +1,10 @@
+#!/bin/bash
+DIR=$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )
+python -u ${DIR}/sdkbox.pyc "$@"
+
+# PYTHON_VERSION=$( python -c 'import sys; version=sys.version_info[:3]; print("{0}".format(*version))' )
+# if [[ "$PYTHON_VERSION" -eq 2 ]]; then
+#     python -u ${DIR}/sdkbox.pyc "$@"
+# else
+#     echo "**ERR**: Please use sdkbox with Python 2.x version"
+# fi
