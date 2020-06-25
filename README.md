@@ -1,5 +1,6 @@
 # Cocos2d-x with HMS
 cocos2d-x and Huawei Mobile Service Integration demo application.(Account Kit used)
+![alt text](https://github.com/gmYusuf/cocos2dHMS/blob/master/ss.jpg)
 
 ## Introduction 
 Cocos2d-x is a open-source, cross platform game engine. In this project we will use Cocos2d-x with Huawei mobile services.
